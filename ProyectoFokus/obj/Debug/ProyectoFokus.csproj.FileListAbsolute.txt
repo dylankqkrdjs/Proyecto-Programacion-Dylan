@@ -1,0 +1,342 @@
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\ProyectoFokus.exe.config
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\ProyectoFokus.exe
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\ProyectoFokus.pdb
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\obj\Debug\ProyectoFokus.csproj.AssemblyReference.cache
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\obj\Debug\ProyectoFokus.FokusInicio.resources
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\obj\Debug\ProyectoFokus.Properties.Resources.resources
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\obj\Debug\ProyectoFokus.csproj.GenerateResource.cache
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\obj\Debug\ProyectoFokus.csproj.CoreCompileInputs.cache
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\obj\Debug\ProyectoFokus.exe
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\obj\Debug\ProyectoFokus.pdb
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\obj\Debug\ProyectoFokus.Form2.resources
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\Google.Protobuf.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\MySql.Data.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\System.Buffers.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\System.IO.Pipelines.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\System.Memory.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\ZstdSharp.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\Google.Protobuf.pdb
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\Google.Protobuf.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\MySql.Data.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\System.Buffers.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\System.IO.Pipelines.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\System.Memory.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\obj\Debug\ProyectoFokus.Form3.resources
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\obj\Debug\Proyecto.4EF8786B.Up2Date
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\obj\Debug\ProyectoFokus.Form4.resources
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Gallardo\ProyectoFokus\ProyectoFokus\obj\Debug\ProyectoFokus.Form5.resources
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\ProyectoFokus.exe.config
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\ProyectoFokus.exe
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\ProyectoFokus.pdb
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\Google.Protobuf.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\MySql.Data.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\System.Buffers.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\System.IO.Pipelines.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\System.Memory.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\ZstdSharp.dll
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\Google.Protobuf.pdb
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\Google.Protobuf.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\MySql.Data.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\System.Buffers.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\System.IO.Pipelines.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\System.Memory.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\obj\Debug\ProyectoFokus.csproj.AssemblyReference.cache
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\obj\Debug\ProyectoFokus.exe.config
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\obj\Debug\ProyectoFokus.FokusInicio.resources
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\obj\Debug\ProyectoFokus.Properties.Resources.resources
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\obj\Debug\ProyectoFokus.csproj.GenerateResource.cache
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\obj\Debug\ProyectoFokus.csproj.CoreCompileInputs.cache
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\obj\Debug\Proyecto.4EF8786B.Up2Date
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\obj\Debug\ProyectoFokus.exe
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\obj\Debug\ProyectoFokus.pdb
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\obj\Debug\ProyectoFokus.Fokus.resources
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\obj\Debug\ProyectoFokus.Login.resources
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\obj\Debug\ProyectoFokus.FokusPrincipal.resources
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\obj\Debug\ProyectoFokus.FokusCrearTarea.resources
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\obj\Debug\ProyectoFokus.TareaCompletada.resources
+C:\Users\dylan\OneDrive\Desktop\Proyecto programaacion BACKUP\ProyectoFokus\obj\Debug\ProyectoFokus.CalendarioDias.resources
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\obj\Debug\ProyectoFokus.csproj.AssemblyReference.cache
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\obj\Debug\ProyectoFokus.exe.config
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\obj\Debug\ProyectoFokus.FokusInicio.resources
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\obj\Debug\ProyectoFokus.Login.resources
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\obj\Debug\ProyectoFokus.Fokus.resources
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\obj\Debug\ProyectoFokus.FokusPrincipal.resources
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\obj\Debug\ProyectoFokus.FokusCrearTarea.resources
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\obj\Debug\ProyectoFokus.TareaCompletada.resources
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\obj\Debug\ProyectoFokus.Properties.Resources.resources
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\obj\Debug\ProyectoFokus.csproj.GenerateResource.cache
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\obj\Debug\ProyectoFokus.csproj.CoreCompileInputs.cache
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\obj\Debug\ProyectoFokus.exe
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\obj\Debug\ProyectoFokus.pdb
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\ProyectoFokus.exe.config
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\ProyectoFokus.exe
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\ProyectoFokus.pdb
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\Google.Protobuf.dll
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\MySql.Data.dll
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\System.Buffers.dll
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\System.IO.Pipelines.dll
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\System.Memory.dll
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\ZstdSharp.dll
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\Google.Protobuf.pdb
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\Google.Protobuf.xml
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\MySql.Data.xml
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\System.Buffers.xml
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\System.IO.Pipelines.xml
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\System.Memory.xml
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dylan\OneDrive\Desktop\backup 2\ProyectoFokus\obj\Debug\Proyecto.4EF8786B.Up2Date
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\ProyectoFokus.exe.config
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\ProyectoFokus.exe
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\ProyectoFokus.pdb
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\Google.Protobuf.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\MySql.Data.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\System.Buffers.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\System.IO.Pipelines.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\System.Memory.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\ZstdSharp.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\Google.Protobuf.pdb
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\Google.Protobuf.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\MySql.Data.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\System.Buffers.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\System.IO.Pipelines.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\System.Memory.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\obj\Debug\ProyectoFokus.csproj.AssemblyReference.cache
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\obj\Debug\ProyectoFokus.exe.config
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\obj\Debug\ProyectoFokus.FokusInicio.resources
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\obj\Debug\ProyectoFokus.Login.resources
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\obj\Debug\ProyectoFokus.Fokus.resources
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\obj\Debug\ProyectoFokus.FokusPrincipal.resources
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\obj\Debug\ProyectoFokus.FokusCrearTarea.resources
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\obj\Debug\ProyectoFokus.TareaCompletada.resources
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\obj\Debug\ProyectoFokus.Properties.Resources.resources
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\obj\Debug\ProyectoFokus.csproj.GenerateResource.cache
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\obj\Debug\ProyectoFokus.csproj.CoreCompileInputs.cache
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\obj\Debug\Proyecto.4EF8786B.Up2Date
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\obj\Debug\ProyectoFokus.exe
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR\ProyectoFokus\obj\Debug\ProyectoFokus.pdb
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\ProyectoFokus.exe.config
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\ProyectoFokus.exe
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\ProyectoFokus.pdb
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\Google.Protobuf.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\MySql.Data.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\System.Buffers.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\System.IO.Pipelines.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\System.Memory.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\ZstdSharp.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\Google.Protobuf.pdb
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\Google.Protobuf.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\MySql.Data.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\System.Buffers.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\System.IO.Pipelines.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\System.Memory.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\obj\Debug\ProyectoFokus.csproj.AssemblyReference.cache
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\obj\Debug\ProyectoFokus.exe.config
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\obj\Debug\ProyectoFokus.FokusInicio.resources
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\obj\Debug\ProyectoFokus.Login.resources
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\obj\Debug\ProyectoFokus.Fokus.resources
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\obj\Debug\ProyectoFokus.FokusPrincipal.resources
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\obj\Debug\ProyectoFokus.FokusCrearTarea.resources
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\obj\Debug\ProyectoFokus.TareaCompletada.resources
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\obj\Debug\ProyectoFokus.Properties.Resources.resources
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\obj\Debug\ProyectoFokus.csproj.GenerateResource.cache
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\obj\Debug\ProyectoFokus.csproj.CoreCompileInputs.cache
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\obj\Debug\Proyecto.4EF8786B.Up2Date
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\obj\Debug\ProyectoFokus.exe
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup\ProyectoFokus\obj\Debug\ProyectoFokus.pdb
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\ProyectoFokus.exe.config
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\ProyectoFokus.exe
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\ProyectoFokus.pdb
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\Google.Protobuf.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\MySql.Data.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\System.Buffers.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\System.IO.Pipelines.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\System.Memory.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\ZstdSharp.dll
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\Google.Protobuf.pdb
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\Google.Protobuf.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\MySql.Data.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\System.Buffers.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\System.IO.Pipelines.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\System.Memory.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\obj\Debug\ProyectoFokus.csproj.AssemblyReference.cache
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\obj\Debug\ProyectoFokus.exe.config
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\obj\Debug\ProyectoFokus.FokusInicio.resources
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\obj\Debug\ProyectoFokus.Login.resources
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\obj\Debug\ProyectoFokus.Fokus.resources
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\obj\Debug\ProyectoFokus.FokusPrincipal.resources
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\obj\Debug\ProyectoFokus.FokusCrearTarea.resources
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\obj\Debug\ProyectoFokus.TareaCompletada.resources
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\obj\Debug\ProyectoFokus.Properties.Resources.resources
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\obj\Debug\ProyectoFokus.csproj.GenerateResource.cache
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\obj\Debug\ProyectoFokus.csproj.CoreCompileInputs.cache
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\obj\Debug\Proyecto.4EF8786B.Up2Date
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\obj\Debug\ProyectoFokus.exe
+C:\Users\dylan\OneDrive\Desktop\MODELO VISTA CONTROLADOR backup - copia\ProyectoFokus\obj\Debug\ProyectoFokus.pdb
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\ProyectoFokus.exe.config
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\ProyectoFokus.exe
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\ProyectoFokus.pdb
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\Google.Protobuf.dll
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\MySql.Data.dll
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\System.Buffers.dll
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\System.IO.Pipelines.dll
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\System.Memory.dll
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\ZstdSharp.dll
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\Google.Protobuf.pdb
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\Google.Protobuf.xml
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\MySql.Data.xml
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\System.Buffers.xml
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\System.IO.Pipelines.xml
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\System.Memory.xml
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\obj\Debug\ProyectoFokus.csproj.AssemblyReference.cache
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\obj\Debug\ProyectoFokus.exe.config
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\obj\Debug\ProyectoFokus.FokusInicio.resources
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\obj\Debug\ProyectoFokus.Login.resources
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\obj\Debug\ProyectoFokus.Fokus.resources
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\obj\Debug\ProyectoFokus.FokusPrincipal.resources
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\obj\Debug\ProyectoFokus.FokusCrearTarea.resources
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\obj\Debug\ProyectoFokus.TareaCompletada.resources
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\obj\Debug\ProyectoFokus.Properties.Resources.resources
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\obj\Debug\ProyectoFokus.csproj.GenerateResource.cache
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\obj\Debug\ProyectoFokus.csproj.CoreCompileInputs.cache
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\obj\Debug\Proyecto.4EF8786B.Up2Date
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\obj\Debug\ProyectoFokus.exe
+C:\Users\dylan\OneDrive\Desktop\backup definitivo\ProyectoFokus\obj\Debug\ProyectoFokus.pdb
