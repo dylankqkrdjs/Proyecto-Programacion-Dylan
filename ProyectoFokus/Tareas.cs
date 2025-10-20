@@ -10,9 +10,9 @@ namespace ProyectoFokus
 {
     internal class Tareas
     {
-        
+        public int IdTarea { get; set; }
         public string Titulo { get; set; }
-        public string Frecuencia { get; set; }
+        public string Gmail { get; set; }
         public DateTime fecha { get; set; }
         public string Descripcion { get; set; }
         public DateTime FechaInicio { get; set; }
@@ -26,7 +26,7 @@ namespace ProyectoFokus
         private static int racha = 0;
 
         private static DateTime? UltimaFechaCompletada = null;
-    
+        public Tareas() { }
         public static void ActualizarRacha(DateTime fecha)
         {
             if (UltimaFechaCompletada == null)
@@ -82,6 +82,8 @@ namespace ProyectoFokus
             Categoria = cat;
 
         }
+        
+
         public Tareas(int ra)
         {
            racha = ra;

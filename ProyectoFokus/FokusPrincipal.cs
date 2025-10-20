@@ -20,6 +20,8 @@ namespace ProyectoFokus
     {
         private List<Tareas> listaTareas = new List<Tareas>();
         private Timer timer;
+        private string usuarioActual;
+        private ModeloDeTareas modeloTareas = new ModeloDeTareas();
         private int segundosTrabajados = 0;
         private Tareas TiempoTrabajado = null;
         private Tareas tareaActiva; // la que se cronometra actualmente
@@ -39,11 +41,14 @@ namespace ProyectoFokus
            
         }
         
-        public FokusPrincipal()
+        public FokusPrincipal(string gmail)
         {   
           
             
-            InitializeComponent(); // ← Esto inicializa los controles visuales
+            InitializeComponent(); // ← Es
+                                   
+            usuarioActual = gmail;
+            // to inicializa los controles visuales
         }
         private void CompletarTarea(Tareas tareas)
         {
@@ -51,7 +56,7 @@ namespace ProyectoFokus
             tareas.fecha = DateTime.Now;
             listaTareas.Add(tareas);
             Tareas.ActualizarRacha(DateTime.Now);
-            lblRacha.Text = $"racha:{Tareas.Racha}";
+            
           
                 
         }
@@ -231,14 +236,17 @@ namespace ProyectoFokus
             FokusCrearTarea form5 = new FokusCrearTarea();
             if (form5.ShowDialog() == DialogResult.OK)
             {
-                Tareas nueva = new Tareas(form5.Titulo, form5.Descripcion, form5.FechaInicial, form5.FechaFinal, form5.TiempoEstimado,form5.Categoria);
-                listaTareas.Add(nueva);
+                Tareas nueva = new Tareas(form5.Titulo, form5.Descripcion, form5.FechaInicial, form5.FechaFinal, form5.TiempoEstimado, form5.Categoria);
+                nueva.Gmail = usuarioActual;
 
-               
-                AgregarTareaVisual(nueva.Titulo, nueva.Descripcion, nueva.FechaInicio, nueva.FechaFin, nueva.TiempoEstimado, nueva.Categoria);
-                tareaActiva = nueva;
+                // Insertar en BD
+                if (modeloTareas.InsertarTarea(nueva))
+                {
+                    listaTareas.Add(nueva);
+                    AgregarTareaVisual(nueva.Titulo, nueva.Descripcion, nueva.FechaInicio, nueva.FechaFin, nueva.TiempoEstimado, nueva.Categoria);
+                }
             }
-            
+
 
         }
 
@@ -441,6 +449,25 @@ namespace ProyectoFokus
         {
 
         }
+
+        private void label14_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void CargarTareas_Click(object sender, EventArgs e)
+        {
+            PanelTareas.Controls.Clear(); // limpiar visuales anteriores
+            listaTareas = modeloTareas.ObtenerTareasPorUsuario(usuarioActual);
+
+            foreach (var t in listaTareas)
+            {
+                AgregarTareaVisual(t.Titulo, t.Descripcion, t.FechaInicio, t.FechaFin, t.TiempoEstimado, t.Categoria);
+            }
+
+            MessageBox.Show("Tareas cargadas correctamente.");
+        }
+        
 
         private void label7_Click_2(object sender, EventArgs e)
         {

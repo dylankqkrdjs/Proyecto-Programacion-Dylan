@@ -49,7 +49,7 @@ namespace ProyectoFokus
 
                 if (rta == "OK")
                 {
-                    FokusPrincipal menu = new FokusPrincipal();
+                    FokusPrincipal menu = new FokusPrincipal(user.Gmail);
                     menu.Show();
                     this.Hide();
                 }

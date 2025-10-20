@@ -48,9 +48,8 @@
             this.lblCronometro = new System.Windows.Forms.Label();
             this.TiempoActual = new System.Windows.Forms.Timer(this.components);
             this.button2 = new System.Windows.Forms.Button();
-            this.label14 = new System.Windows.Forms.Label();
-            this.lblRacha = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.CargarTareas = new System.Windows.Forms.Button();
             this.Encuesta.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.PanelTareas.SuspendLayout();
@@ -289,26 +288,6 @@
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
-            // label14
-            // 
-            this.label14.AutoSize = true;
-            this.label14.Location = new System.Drawing.Point(611, 23);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(41, 13);
-            this.label14.TabIndex = 42;
-            this.label14.Text = "label14";
-            // 
-            // lblRacha
-            // 
-            this.lblRacha.AutoSize = true;
-            this.lblRacha.ForeColor = System.Drawing.SystemColors.ControlLight;
-            this.lblRacha.Location = new System.Drawing.Point(569, 13);
-            this.lblRacha.Name = "lblRacha";
-            this.lblRacha.Size = new System.Drawing.Size(63, 13);
-            this.lblRacha.TabIndex = 43;
-            this.lblRacha.Text = "Racha de : ";
-            this.lblRacha.Click += new System.EventHandler(this.lblRacha_Click);
-            // 
             // pictureBox1
             // 
             this.pictureBox1.Image = global::ProyectoFokus.Properties.Resources.Robosss;
@@ -321,14 +300,28 @@
             this.pictureBox1.TabStop = false;
             this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
+            // CargarTareas
+            // 
+            this.CargarTareas.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.CargarTareas.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.CargarTareas.ForeColor = System.Drawing.SystemColors.Control;
+            this.CargarTareas.Location = new System.Drawing.Point(467, 13);
+            this.CargarTareas.Margin = new System.Windows.Forms.Padding(2);
+            this.CargarTareas.Name = "CargarTareas";
+            this.CargarTareas.Size = new System.Drawing.Size(298, 37);
+            this.CargarTareas.TabIndex = 1;
+            this.CargarTareas.Text = "Cargar tareas";
+            this.CargarTareas.UseVisualStyleBackColor = false;
+            this.CargarTareas.Visible = false;
+            this.CargarTareas.Click += new System.EventHandler(this.CargarTareas_Click);
+            // 
             // FokusPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.ClientSize = new System.Drawing.Size(907, 837);
-            this.Controls.Add(this.lblRacha);
-            this.Controls.Add(this.label14);
+            this.Controls.Add(this.CargarTareas);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.lblCronometro);
             this.Controls.Add(this.btnIniciarPausar);
@@ -349,7 +342,6 @@
             this.PanelTareas.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
@@ -374,7 +366,6 @@
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.Timer TiempoActual;
         private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Label label14;
-        private System.Windows.Forms.Label lblRacha;
+        private System.Windows.Forms.Button CargarTareas;
     }
 }
