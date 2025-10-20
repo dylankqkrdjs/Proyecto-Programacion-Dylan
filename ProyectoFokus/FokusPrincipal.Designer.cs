@@ -52,7 +52,6 @@
             this.CargarTareas = new System.Windows.Forms.Button();
             this.Encuesta.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
-            this.PanelTareas.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -211,11 +210,10 @@
             // PanelTareas
             // 
             this.PanelTareas.AutoScroll = true;
-            this.PanelTareas.Controls.Add(this.btnAgregarTarea);
-            this.PanelTareas.Location = new System.Drawing.Point(11, 11);
+            this.PanelTareas.Location = new System.Drawing.Point(11, 51);
             this.PanelTareas.Margin = new System.Windows.Forms.Padding(2);
             this.PanelTareas.Name = "PanelTareas";
-            this.PanelTareas.Size = new System.Drawing.Size(424, 815);
+            this.PanelTareas.Size = new System.Drawing.Size(424, 775);
             this.PanelTareas.TabIndex = 23;
             this.PanelTareas.Visible = false;
             this.PanelTareas.Paint += new System.Windows.Forms.PaintEventHandler(this.PanelTareas_Paint);
@@ -225,7 +223,7 @@
             this.btnAgregarTarea.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnAgregarTarea.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAgregarTarea.ForeColor = System.Drawing.SystemColors.Control;
-            this.btnAgregarTarea.Location = new System.Drawing.Point(2, 2);
+            this.btnAgregarTarea.Location = new System.Drawing.Point(11, 10);
             this.btnAgregarTarea.Margin = new System.Windows.Forms.Padding(2);
             this.btnAgregarTarea.Name = "btnAgregarTarea";
             this.btnAgregarTarea.Size = new System.Drawing.Size(422, 37);
@@ -312,7 +310,6 @@
             this.CargarTareas.TabIndex = 1;
             this.CargarTareas.Text = "Cargar tareas";
             this.CargarTareas.UseVisualStyleBackColor = false;
-            this.CargarTareas.Visible = false;
             this.CargarTareas.Click += new System.EventHandler(this.CargarTareas_Click);
             // 
             // FokusPrincipal
@@ -321,6 +318,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.ClientSize = new System.Drawing.Size(907, 837);
+            this.Controls.Add(this.btnAgregarTarea);
             this.Controls.Add(this.CargarTareas);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.lblCronometro);
@@ -339,7 +337,6 @@
             this.Encuesta.ResumeLayout(false);
             this.Encuesta.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
-            this.PanelTareas.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 

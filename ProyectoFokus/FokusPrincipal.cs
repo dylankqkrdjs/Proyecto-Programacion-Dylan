@@ -460,12 +460,17 @@ namespace ProyectoFokus
             PanelTareas.Controls.Clear(); // limpiar visuales anteriores
             listaTareas = modeloTareas.ObtenerTareasPorUsuario(usuarioActual);
 
-            foreach (var t in listaTareas)
+            if (listaTareas != null && listaTareas.Count > 0)
             {
-                AgregarTareaVisual(t.Titulo, t.Descripcion, t.FechaInicio, t.FechaFin, t.TiempoEstimado, t.Categoria);
+                foreach (var t in listaTareas.ToList())
+                {
+                    AgregarTareaVisual(t.Titulo, t.Descripcion, t.FechaInicio, t.FechaFin, t.TiempoEstimado, t.Categoria);
+                }
             }
-
-            MessageBox.Show("Tareas cargadas correctamente.");
+            else
+            {
+                MessageBox.Show("No hay tareas cargadas o hubo un error al obtenerlas.");
+            }
         }
         
 

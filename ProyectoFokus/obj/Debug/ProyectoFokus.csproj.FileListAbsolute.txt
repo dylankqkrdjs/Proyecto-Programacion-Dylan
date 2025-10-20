@@ -388,3 +388,4 @@ C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Dylan Ustariz\ProyectoFoku
 C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Dylan Ustariz\ProyectoFokus\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Dylan Ustariz\ProyectoFokus\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Dylan Ustariz\ProyectoFokus\obj\Debug\Proyecto.4EF8786B.Up2Date
+C:\Users\dylan\OneDrive\Desktop\Proyecto Programacion Dylan Ustariz\ProyectoFokus\obj\Debug\ProyectoFokus.exe.config

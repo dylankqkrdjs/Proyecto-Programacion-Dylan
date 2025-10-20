@@ -20,7 +20,7 @@ namespace ProyectoFokus
                 {
                     conn.Open();
                     string sql = @"INSERT INTO tareas 
-                              (gmail, titulo, descripcion, categoria, fecha_inicio tarea_completada)
+                              (gmail, titulo, descripcion, categoria, fecha_inicio, tarea_completada)
                               VALUES (@gmail, @titulo, @descripcion, @categoria, @inicio, @completada)";
 
                     using (MySqlCommand cmd = new MySqlCommand(sql, conn))
@@ -31,7 +31,7 @@ namespace ProyectoFokus
                         cmd.Parameters.AddWithValue("@categoria", tarea.Categoria);
                         cmd.Parameters.AddWithValue("@inicio", tarea.FechaInicio);
                         
-                        cmd.Parameters.AddWithValue("@completada", tarea.TareaCompletada ? "completada" : "pendiente");
+                        cmd.Parameters.AddWithValue("@completada", false);
                         cmd.ExecuteNonQuery();
                     }
                 }
@@ -62,7 +62,7 @@ namespace ProyectoFokus
                             {
                                 tareas.Add(new Tareas
                                 {
-                                    IdTarea = reader.GetInt32("idTarea"),
+                                    IdTarea = reader.GetInt32("id_tarea"),
                                     Gmail = reader.GetString("gmail"),
                                     Titulo = reader.GetString("titulo"),
                                     Descripcion = reader.GetString("descripcion"),
